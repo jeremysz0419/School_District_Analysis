@@ -4,6 +4,10 @@ The objective of this challenge was to alter our code according to changes in ou
 
 ## Results 
 The school district has asked us to perform comparative analysis on seven distric metrics shown below. 
+### Averages in Scores
+With the new adjusted data, the entirety of average scores for Freshmans at Thomas High School has been removed and replaced with NaN. 
+![newMath](https://github.com/jeremysz0419/School_District_Analysis/blob/main/Resources/new%20math%20average.PNG)
+![newReading](https://github.com/jeremysz0419/School_District_Analysis/blob/main/Resources/new%20reading%20average.PNG)
 ### District Summary Analysis
 Original vs Fixed Analysis:
 ![old1](https://github.com/jeremysz0419/School_District_Analysis/blob/main/Resources/old%20district%20summary.PNG)
@@ -24,10 +28,14 @@ Previously in our original analysis, Thomas High School ranked second in overall
 We see very little to no changes in percentages based on school sizes. 
 ### School Type 
 ![old5](https://github.com/jeremysz0419/School_District_Analysis/blob/main/Resources/old%20school%20type.PNG)
-![old6](https://github.com/jeremysz0419/School_District_Analysis/blob/main/Resources/new%20school%20type.PNG)
+![new5](https://github.com/jeremysz0419/School_District_Analysis/blob/main/Resources/new%20school%20type.PNG)
 In terms of school types we see almost no changes as well with the adjusted analysis. 
+### School Spending
+![old6](https://github.com/jeremysz0419/School_District_Analysis/blob/main/Resources/new%20spending%20(1).PNG)
+![new6](https://github.com/jeremysz0419/School_District_Analysis/blob/main/Resources/new%20spending.PNG)
+We see no changes to our passing percentages based on school spending. 
 ## Overall Result
 1. We saw that there as a big shift in overall passing percentages for Thomas High School. Every category almost fell by 30% when removing the erroneous test scores. 
 2. Due the the cheating scandal, Thomas High School fell dramatically in school ranking from the second ranked school to the eigth when it came to students that passed overall.
 3. However, on a larger scale we see that there were barely any noticeable differences when it came to district wide analysis. 
-4. Similarly, in terms of comparison in other categories such as passing rates based on "School Types" and "School Sizes", there are almost no changes to the result. We can conclude that while the impact of the removing Freshman test scores were significant for Thomas High School itself, the impact on the performance of the school district as a whole was not significant.  
+4. Similarly, in terms of comparison in other categories such as passing rates based on "School Types", "School Sizes", and "School Spending" there are almost no changes to the result. We can conclude that while the impact of the removing Freshman test scores were significant for Thomas High School itself, the impact on the performance of the school district as a whole was not significant.  
